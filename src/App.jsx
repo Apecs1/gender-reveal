@@ -55,7 +55,7 @@ export default function App() {
             </h1>
 
             <p className="text-2xl text-white/90 mb-8">
-              Una noche mágica para descubrir
+              Un pequeño milagro viene en camino…💕
             </p>
 
             <div className="flex justify-center gap-8 text-3xl font-bold">
