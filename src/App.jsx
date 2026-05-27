@@ -186,7 +186,7 @@ export default function App() {
 
       {/* MUSICA */}
 
-      <audio id="babyMusic" src="/bebes.mp3" loop />
+      <audio id="babyMusic" src="/cancion.mp3" loop />
 
 
 
