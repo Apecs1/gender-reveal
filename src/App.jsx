@@ -541,6 +541,11 @@ export default function App() {
         </div>
 
       </section>
+      <footer className="text-center py-8 text-white/70 text-lg">
+
+  Página creada con ❤️ por el papá Miguel Ángel
+
+</footer>
 
     </main>
   )
