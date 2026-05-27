@@ -152,7 +152,7 @@ export default function App() {
               </p>
 
               <a
-                href="https://wa.me/5210000000000"
+                href="https://wa.me/523333566247"
                 target="_blank"
                 className="inline-block mt-10 bg-white text-black px-10 py-5 rounded-full text-xl font-bold hover:scale-110 transition duration-300 shadow-2xl"
               >
