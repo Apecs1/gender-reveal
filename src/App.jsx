@@ -451,7 +451,7 @@ export default function App() {
               </h2>
 
               <p className="text-white/80 text-lg">
-                Almedra 48 B
+                Almedra 48 B, Jardines de santa Maria, tlaquepaque
               </p>
 
             </div>
@@ -541,11 +541,6 @@ export default function App() {
         </div>
 
       </section>
-      <footer className="text-center py-8 text-white/70 text-lg">
-
-  Página creada con ❤️ por el papá Miguel Ángel
-
-</footer>
 
     </main>
   )
